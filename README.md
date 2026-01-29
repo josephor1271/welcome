@@ -6,3 +6,5 @@ My name is joseph.
 my new branch
 
 this is an edit
+
+I am going to add this before i commit
