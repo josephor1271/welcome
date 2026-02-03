@@ -12,3 +12,5 @@ I am going to add this before i commit
 I am not going to add this before i commit
 
 on branch joseph
+
+I went on a run today.
