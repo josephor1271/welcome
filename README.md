@@ -2,3 +2,13 @@
 This is a repo designed to let students freely play around with git commands
 
 My name is joseph.
+
+my new branch
+
+this is an edit
+
+I am going to add this before i commit
+
+I am not going to add this before i commit
+
+on branch joseph
